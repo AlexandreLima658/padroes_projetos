@@ -1,0 +1,1 @@
+## PADRÕES DE PROJETO!
